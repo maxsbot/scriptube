@@ -55,3 +55,7 @@ Este projeto é de código aberto. Sinta-se à vontade para contribuir com melho
 ## Licença
 
 Este projeto está licenciado sob a licença MIT.
+
+## Isenção de responsabilidade
+
+Este código foi criado para fins educacionais e não deve ser utilizado para violar os Termos de Serviço de qualquer plataforma ou serviço online, incluindo, mas não se limitando ao, YouTube. Sendo assim, o autor ou os contribuidores não se responsabilizam pelo uso inadequado deste código ou por qualquer violação dos Termos de Serviço que possa ocorrer como resultado do uso deste código.
